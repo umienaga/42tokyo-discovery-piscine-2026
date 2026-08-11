@@ -22,7 +22,8 @@
 
 ## 制作物
 
-- [discovery_piscine(module 0~9)](./discovery_piscine)
+- [Discovery Piscineで取り組んだPython課題](./discovery_piscine)
+  - ※ Module 9の最終課題は制作途中です。
 
 ## 自分が取り組んだこと
 
