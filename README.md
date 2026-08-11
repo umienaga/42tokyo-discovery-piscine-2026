@@ -22,7 +22,7 @@
 
 ## 制作物
 
-- [discovery_piscine](./discovery_piscine)
+- [discovery_piscine(module 0~9)](./discovery_piscine)
 
 ## 自分が取り組んだこと
 
